@@ -1,0 +1,6 @@
+{
+  "name": "DataFix",
+  "description": "DataFix – Autonomous Data Quality and Repair Engine for dataset ingestion, anomaly detection, AI diagnosis, automated repair, validation, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
